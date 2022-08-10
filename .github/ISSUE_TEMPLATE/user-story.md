@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: This is a user story for each feature
+about: This is a user story for each feature.
 title: ''
 labels: ''
 assignees: ''
